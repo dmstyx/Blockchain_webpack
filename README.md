@@ -1,2 +1,2 @@
 # Blockchain_webpack
-Make transfers between
+Make transfers between accounts
